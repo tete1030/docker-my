@@ -1,0 +1,2 @@
+FROM ubuntu:my
+RUN sudo apt-get -qq update && sudo apt-get -qq install python2.7 python-pip 
